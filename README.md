@@ -4,3 +4,4 @@ A collection of data science related explainers geared towards fulfilling homewo
 
 ## Table Of Contents
 - [1.2 Elements of Linear Algebra](1.2%20Elements%20of%20Linear%20Algebra/elements_of_linear_algebra.ipynb)
+- [1.3 Linear Regression](1.3%20Linear%20Regression/linear_regression.ipynb)
