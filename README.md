@@ -7,3 +7,4 @@ A collection of data science related explainers geared towards fulfilling homewo
 - [1.3 Linear Regression](1.3%20Linear%20Regression/linear_regression.ipynb)
 - [1.4 Principal Component Analysis](1.4%20Principal%20Component%20Analysis/principal_component_analysis.ipynb)
 - [2.2 Probability Distributions](2.2%20Probability%20Distrobitions/probability_distributions.ipynb)
+- [2.3 Independent Variables and Random Samples](2.3%20Independent%20Variables%20and%20Random%20Samples/independent_vars_random_samples.ipynb)
