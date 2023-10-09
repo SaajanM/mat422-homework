@@ -9,3 +9,4 @@ A collection of data science related explainers geared towards fulfilling homewo
 - [2.2 Probability Distributions](2.2%20Probability%20Distrobitions/probability_distributions.ipynb)
 - [2.3 Independent Variables and Random Samples](2.3%20Independent%20Variables%20and%20Random%20Samples/independent_vars_random_samples.ipynb)
 - [2.4 Maximum Likelihood Estimation](2.4%20Maximum%20Likelihood%20Estimation/mle.ipynb)
+- [3.2 Continuity & Differentiation](3.2%20Continuity%20and%20Differentiation/continuity_diff.ipynb)
