@@ -11,3 +11,4 @@ A collection of data science related explainers geared towards fulfilling homewo
 - [2.4 Maximum Likelihood Estimation](2.4%20Maximum%20Likelihood%20Estimation/mle.ipynb)
 - [3.2 Continuity & Differentiation](3.2%20Continuity%20and%20Differentiation/continuity_diff.ipynb)
 - [3.3 Unconstrained Optimization](3.3%20Unconstrained%20Optimization/unconstrained_opt.ipynb)
+- [3.4 Logistic Regression](3.4%20Logistic%20Regression/logistic_regression.ipynb)
