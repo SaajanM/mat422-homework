@@ -13,3 +13,4 @@ A collection of data science related explainers geared towards fulfilling homewo
 - [3.3 Unconstrained Optimization](3.3%20Unconstrained%20Optimization/unconstrained_opt.ipynb)
 - [3.4 Logistic Regression](3.4%20Logistic%20Regression/logistic_regression.ipynb)
 - [3.5 K Means & 3.6 Support Vector Machines](3.5%20K%20Means%20-%203.6%20Support%20Vector%20Machines/kmeans_and_svms.ipynb)
+- [3.7 Neural Networks](3.7%20Neural%20Networks/neuralnets.ipynb)
